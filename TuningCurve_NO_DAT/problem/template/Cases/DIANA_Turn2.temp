@@ -1,0 +1,18 @@
+DIANA_Turn2_Parameters
+Ee 717 MeV
+wvl 1064 nm
+normemitx 0.5 mmmrad
+normemity 0.5 mmmrad
+phi 5 deg
+sigL 25 mum
+Q 100 pC
+Epulse 100 muJ
+f 125 MHz
+tpulse 10 ps
+sigze 0.9 mm
+DeltaEe 1e-5 none
+Deltawvl 6.57e-4 none
+DIANA_Turn2_Variables
+thetacol <THETA> mrad
+betaIPx <BETAX> m
+betaIPy <BETAY> m
