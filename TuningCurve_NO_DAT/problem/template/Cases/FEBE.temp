@@ -1,0 +1,18 @@
+FEBE_Parameters
+Ee 250 MeV
+wvl 800 nm
+normemitx 5 mmmrad
+normemity 5 mmmrad
+phi 5 deg
+sigL 45 mum
+Q 100 pC
+Epulse 100000 muJ
+f 0.000001 MHz
+tpulse 2 ps
+sigze 0.72 mm
+DeltaEe 4e-6 none
+Deltawvl 0.03185 none
+FEBE_Variables
+thetacol <THETA> mrad
+betaIPx <BETAX> m
+betaIPy <BETAY> m
