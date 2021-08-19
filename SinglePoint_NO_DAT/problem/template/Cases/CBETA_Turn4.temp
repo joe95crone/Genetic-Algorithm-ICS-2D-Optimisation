@@ -1,0 +1,19 @@
+CBETA_Parameters
+Ee 150 MeV
+wvl 1064 nm
+normemitx 0.3 mmmrad
+normemity 0.3 mmmrad
+phi 2.5 deg
+sigL 25 mum
+Q 32 pC
+Epulse 62 muJ
+f 162.5 MHz
+tpulse 10 ps
+sigze 1 mm
+DeltaEe 5e-4 none
+Deltawvl 6.57e-4 none
+CBETA_Variables
+thetacol <THETA> mrad
+betaIPx <BETAX> m
+betaIPy <BETAY> m
+tarrmsBW 0.005 none 
